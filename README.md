@@ -7,7 +7,7 @@ This dataset provides a comprehensive overview of various fitness activities, ca
 
 # Requirements:
 1. Power BI Desktop
-2. Tourist Trend Dataset (included in the repository)
+2. Health and Fitness Goal Tracking Dataset (included in the repository)
 
 # Questions:
 1. What are the average calories burned per activity?
